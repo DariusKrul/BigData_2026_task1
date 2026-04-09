@@ -197,7 +197,7 @@ Generates `memory_profile_polished.png` with phase annotations.
 | Peak total memory | 3.55 GB |
 | Memory per process | ~279 MB (< 1 GB limit ✓) |
 
-**Highest-confidence finding:** Marshall Islands–flagged tanker (MMSI `538007841`) sat stationary at Brofjorden anchorage (58.086° N, 11.804° E — Sweden's largest oil port) for 20 hours with AIS off. Draught went from 7.3 m to 9.2 m (+26%), consistent with covert cargo loading. This was the only Anomaly C detection across 41 million rows.
+**Highest-confidence finding:** Marshall Islands–flagged tanker (MMSI `538007841`) sat stationary at the Port of Stenungsund (58.086° N, 11.804° E — a Swedish petrochemical tanker terminal handling fuel oil, naphtha, ethylene, propane, and LPG) for 20 hours with AIS off. Draught went from 7.3 m to 9.2 m (+26%), consistent with covert cargo loading at a working commercial terminal. This was the only Anomaly C detection across 41 million rows.
 
 ---
 
